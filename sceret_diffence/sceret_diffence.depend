@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497871595 source:/home/liang/C_program/sceret_diffence/main.cpp
+	<iostream>
+	<cmath>
+
